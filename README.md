@@ -7,7 +7,7 @@ Today we're going to analyze exactly how ransomware attacks work: literally step
 ![Encrypted files](https://camo.githubusercontent.com/144c6c05a6dbcac1ee302d9242cc62431d7c0717304a5903b2fa56abf8240afb/68747470733a2f2f7261772e6d616c776172657061642e636f6d2f6d656469612f6769742f746f792d72616e736f6d776172652f66696c65732e706e67)
 
 ## Warning
-### The code in this repository - paired with an actual server - is as destructive as it gets. Files WILL be encrypted and I'm not responsible for any damage made by this source code. This repository is made to educate people on ransomware attacks and help them find ways in order to prevent them. Malware should never be used for any other purpose!
+### The code in this repository - paired with an actual server - is as destructive as it gets. Files will be encrypted and I'm not responsible for any damage made by this source code. This repository is made to educate people on ransomware attacks and help them find ways in order to prevent them.
 
 ## Stack
 * [Windows API](https://en.wikipedia.org/wiki/Windows_API)
