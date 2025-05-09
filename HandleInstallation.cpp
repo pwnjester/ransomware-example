@@ -1,10 +1,3 @@
-/*
-   ############################################
-   # Copyright 2023 Panagiotis (MalwarePad)   #
-   # WinAPI only ransomware made from scratch #
-   ############################################
-*/
-
 #include "HandleInstallation.h"
 
 int handleInstallation(std::string privateKey, BOOL encrypt) {
