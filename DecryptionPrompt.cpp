@@ -1,10 +1,3 @@
-/*
-   ############################################
-   # Copyright 2023 Panagiotis (MalwarePad)   #
-   # WinAPI only ransomware made from scratch #
-   ############################################
-*/
-
 #include "DecryptionPrompt.h"
 
 const LPCWSTR commonDecryptionKeyErr = L"Please enter a valid decryption key!";
