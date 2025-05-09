@@ -1,10 +1,3 @@
-/*
-   ############################################
-   # Copyright 2023 Panagiotis (MalwarePad)   #
-   # WinAPI only ransomware made from scratch #
-   ############################################
-*/
-
 #include "GetEncryptionKey.h"
 
 // boilerplate to just do an http request, jesus christ
