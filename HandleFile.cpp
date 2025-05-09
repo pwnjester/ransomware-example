@@ -1,10 +1,3 @@
-/*
-   ############################################
-   # Copyright 2023 Panagiotis (MalwarePad)   #
-   # WinAPI only ransomware made from scratch #
-   ############################################
-*/
-
 #include "HandleFile.h"
 
 std::wstring encryptedAttribute = L".AES";
